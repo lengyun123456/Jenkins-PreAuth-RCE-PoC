@@ -1,10 +1,11 @@
 JENKINS UNAUTHENTICATED REMOTE CODE EXECUTION
 ---------------------------------------------
 
-Read his write-ups on this exploit here -
+CODEBY.NET - https://codeby.net/threads/rce-v-jenkins.66855/
+
+Технические подробности - 
 Part 1: https://blog.orange.tw/2019/01/hacking-jenkins-part-1-play-with-dynamic-routing.html
 Part 2: http://blog.orange.tw/2019/02/abusing-meta-programming-for-unauthenticated-rce.html
-His github: https://github.com/orangetw
 
 
 URL Payload:
